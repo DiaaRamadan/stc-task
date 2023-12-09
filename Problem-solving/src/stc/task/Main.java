@@ -11,7 +11,8 @@ public class Main {
         System.out.println(reverse("(abdjnbasdf)"));
         System.out.println(reverse("(abdjnbasdf"));
         System.out.println(reverse("abdjnbasdf)"));
-        System.out.println(reverse("ab(((djn)))basdf)"));
+        System.out.println(reverse("ab(djn)))basdf)"));
+        System.out.println(reverse("ab(((djn)basdf)"));
         System.out.println(reverse("ab(((djn)))basdf)"));
 
     }
